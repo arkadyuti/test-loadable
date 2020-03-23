@@ -4,8 +4,8 @@ var hwp     = require('html-webpack-plugin');
 module.exports = {
     entry: path.join(__dirname, '/src/index.js'),
     output: {
-        filename: 'build.js',
-        path: path.join(__dirname, '/build')
+        filename: 'index.js',
+        path: path.join(__dirname, '/dist')
     },
     module:{
         rules:[
