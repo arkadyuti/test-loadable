@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{21:function(n,e,o){"use strict";o.r(e);var t=o(0),u=o.n(t);e.default=function(){return u.a.createElement("div",null,"CompTwo2")}}}]);
